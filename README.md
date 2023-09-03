@@ -1,2 +1,3 @@
 # anju-project
-this is my first project<br> Author-Anju
+this is my first project<br>
+ Author-Anju Pathak
